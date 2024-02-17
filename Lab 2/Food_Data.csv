@@ -1,0 +1,50 @@
+Item_Id,Category,Menu_item,Store_Name,Price,Sales_Qty,Gross_sales,Item_Disc,Net_Sales
+4000197,Beverages,Macchiato Medium,Einsteins,3.79,53,200.87,0,200.87
+120029,desserts,1L Smart Water,Coffee Corner,3.15,64,201.6,0,201.6
+516007,snacks,Power Bar,Coffee Corner,2.49,82,204.18,0,204.18
+110037,Brew Coffee,Hot Choc 16,Coffee Corner,3.2,64,204.8,0,204.8
+4001978,food,S MA & CH,Coffee Store/Papa John,4.39,47,206.33,0,206.33
+110121,Other Brew,Iced Tea 16oz,Coffee Corner,2,104,208,0,208
+4003218,snacks,M B Coffee Cake,Einsteins,2.19,95,208.05,0,208.05
+4000144,Beverages,Blkbry Lemonade,Einsteins,2.09,100,209,0,209
+506001,hot beverages,12oz Caffe Mocha,Coffee Shop,3.3,64,211.2,0,211.2
+110027,food,Whole Fruit,Coffee Corner,0.8,266,212.8,0,212.8
+4003221,snacks,Muffin Choc Chip,Einsteins,1.99,107,212.93,0,212.93
+1400331,starbucks coffee,G Iced White Moc,Pub,4.35,49,213.15,0,213.15
+8000238,cold beverages,Powerade FP,Coffee Store/Papa John,2.15,100,215,0,215
+4000155,Beverages,Cappuccino Md,Einsteins,3.49,62,216.38,0,216.38
+4002615,cold beverages,Simply OJ,Jason's Deli,2.49,87,216.63,0,216.63
+30086,hot beverages,Tazo Hot Tea,Food Court,1.2,182,218.4,0,218.4
+4000236,Beverages,VanHazelLatteMd,Einsteins,3.79,58,219.82,0,219.82
+4000267,Breakfast,Deli Sand Combo,Einsteins,8.99,31,221.69,0,221.69
+1400226,starbucks coffee,V- Iced Latte,Pub,4.05,55,222.75,0,222.75
+2100003,appetizers,Chips&Salsa,Pub,3.99,56,223.44,0,223.44
+4002539,entr?e-create,3Combo Salad Dr,Food Court,6.99,32,223.68,0,223.68
+4003262,outtakes,**Limited Time,Grab n go,4.5,50,225,0,225
+4002554,entr?e-create,2Combo sweet,Food Court,5.49,41,225.09,0,225.09
+110104,food,Gum,Coffee Corner,1.99,115,228.85,0,228.85
+8000234,cold beverages,GP Sweet Tea,Coffee Store/Papa John,2.15,107,230.05,0,230.05
+99955,AFC sushi,Sp Tuna Roll SP,Coffee Corner,5.49,42,230.58,0,230.58
+4000698,Combo,Bagel Dog,Einsteins,4.99,47,234.53,0,234.53
+4000135,Beverages,bev-Smt water 20,Einsteins,2.3,102,234.6,0,234.6
+4003217,snacks,CinnamonTwist,Einsteins,1.29,182,234.78,0,234.78
+4000112,Beverages,bev-20oz btl all,Einsteins,1.85,128,236.8,0,236.8
+1400293,starbucks coffee,V- Hot White Moc,Pub,4.65,51,237.15,0,237.15
+2100020,appetizers,Side OnionRings,Pub,0.5,476,238,0,238
+110129,food,Marich Beans,Coffee Corner,2.49,96,239.04,0,239.04
+110082,Brew Coffee,Hot Tea Lg,Coffee Corner,3,80,240,0,240
+4003205,entr?e,1/2 Salmon,Jason's Deli,8.29,29,240.41,0,240.41
+110080,Brew Coffee,Hot Tea Sm,Coffee Corner,2,121,242,0,242
+4003261,entr?e,BYO Sandwich,Jason's Deli,6.29,39,245.31,0,245.31
+99976,AFC sushi,Eel Roll SP,Coffee Corner,5.99,41,245.59,0,245.59
+4000215,Beverages,Lg SB Smoothie,Einsteins,4.79,52,249.08,0,249.08
+1100002,fountain drinks,Diet Coke - Fnt.,Pub,1.55,161,249.55,0,249.55
+1200029,alcohol,Cabernet Sauvign,Pub,4,63,252,0,252
+1700331,starbucks coffee,G- Tea Lemonade,Pub,3,84,252,0,252
+120017,desserts,Milk 16oz,Coffee Corner,1.85,137,253.45,0,253.45
+1100005,fountain drinks,Sprite - Fnt.,Pub,1.55,166,257.3,-1.55,255.75
+110021,Expresso bev,Crml Macc 20oz,Coffee Corner,4.85,53,257.05,0,257.05
+1400263,starbucks coffee,Add Espresso,Pub,0.8,324,259.2,0,259.2
+4000265,Breakfast,BBQ Combo,Einsteins,7.25,36,261,0,261
+4000174,Beverages,FrznCaraMacchiMd,Einsteins,3.79,69,261.51,0,261.51
+110081,Brew Coffee,Hot Tea Md,Coffee Corner,2.5,105,262.5,0,262.5
